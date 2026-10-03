@@ -3,26 +3,21 @@ public:
     int countPrimes(int n) {
         if (n <= 2) return 0;
 
-        vector<bool> isPrime(n, true);
+        vector<char> isPrime(n, 1);
+        isPrime[0] = isPrime[1] = 0;
 
-        // 2 is the only even prime
-        int count = 1 + (n - 2) / 2;
-
-        for (int i = 3; i * i < n; i += 2) {
-
+        for (long long i = 2; i * i < n; i++) {
             if (isPrime[i]) {
-
-                // Only mark odd multiples
-                for (int j = i * i; j < n; j += 2 * i) {
-
-                    if (isPrime[j]) {
-                        isPrime[j] = false;
-                        count--;
-                    }
+                for (long long j = i * i; j < n; j += i) {
+                    isPrime[j] = 0;
                 }
             }
         }
 
+        int count = 0;
+        for (int i = 2; i < n; i++) {
+            count += isPrime[i];
+        }
         return count;
     }
 };
