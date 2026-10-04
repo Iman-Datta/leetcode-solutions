@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Iman-Datta/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Iman-Datta/leetcode-solutions/tree/master/0204-count-primes) |
 | [0485-max-consecutive-ones](https://github.com/Iman-Datta/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Iman-Datta/leetcode-solutions/tree/master/0704-binary-search) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Iman-Datta/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Iman-Datta/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Iman-Datta/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Iman-Datta/leetcode-solutions/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/Iman-Datta/leetcode-solutions/tree/master/0507-perfect-number) |
 ## Enumeration
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Iman-Datta/leetcode-solutions/tree/master/0204-count-primes) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Iman-Datta/leetcode-solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
