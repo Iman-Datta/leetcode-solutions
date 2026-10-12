@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Iman-Datta/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Iman-Datta/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Iman-Datta/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Iman-Datta/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Iman-Datta/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Iman-Datta/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Iman-Datta/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Iman-Datta/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/Iman-Datta/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Iman-Datta/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Iman-Datta/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
